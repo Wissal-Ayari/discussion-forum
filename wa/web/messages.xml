@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><messages>
+
+<message id="d1daf7ee-58d8-4b7b-b3b3-85e0eef5ee39" topic="1">
+    <user>ahermassi</user>
+    <text>Using big data to gain insights about your customers is becoming more common these days.</text></message>
+<message id="3164fc43-c89f-4b62-abc5-d66f8e1af297" topic="1">
+    <user>ahermassi</user>
+    <text>Using big data to create actionable insights from how trucks perform under a variety of weather conditions.</text>
+</message>
+<message id="194724c5-8033-48c5-bd4d-47ed5f5dd8c4" topic="1">
+    <user>wayari</user>
+    <text>Big data will become a key basis of competition, underpinning new waves of productivity growth, innovation, and consumer surplus--as long as the right policies ...</text>
+</message>
+<message id="cfcdd58a-b9b5-4c0e-9aaf-604b8a4a52bb" topic="1">
+    <user>wayari</user>
+    <text> It is high-volume, high-velocity and/or high-variety information assets that demand cost-effective, innovative forms of information processing that enable ...</text>
+</message>
+<message id="fa87d456-867a-4d7d-9a8e-e4219e10b931" topic="4">
+    <user>wayari</user>
+    <text>The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in ...</text>
+</message>
+<message id="53d0b70a-ff1f-4ad6-aacf-41518ba1506f" topic="1">
+    <user>Hayari</user>
+    <text>Malgré d'apparentes ressemblances, la BI et la Big Data sont deux méthodes d'analyse différentes.</text>
+</message>
+
+
+
+<message id="dd1c34a0-c30f-4317-81dd-292a0f56de6b" topic="2">
+    <user>ahermassi</user>
+    <text>2 mechanism : supervised learning it's the output datasets are provided which are used to train the machine and get the desired outputs.And in unsupervised learning no datasets are provided, instead the data is clustered into different classes .</text>
+</message>
+<message id="3f4d9953-6faa-47cb-8400-d550309d32f0" topic="2">
+    <user>Rabidi</user>
+    <text>machine learning is evolving and changing how we use technology in the customer experience.</text>
+</message>
+<message id="46de27ae-c1c9-497a-8556-d2f78f421b8f" topic="2">
+    <user>Hayari</user>
+    <text>Machine learning is not new. We have witnessed it since the 1990s, when Amazon introduced a new “recommended for you” section.</text>
+</message>
+<message id="53164d55-3fcc-4494-82a2-805dd5476d33" topic="2">
+    <user>wayari</user>
+    <text>Machine learning is at the core of many applications that have become part of daily life, from voice recognition to image perception.</text>
+</message>
+<message id="17155ccd-db6f-448e-9e6d-29a8ab57ab7d" topic="2">
+    <user>ahermassi</user>
+    <text>Machine learning is starting to infiltrate all areas of marketing technology, and that's probably a good thing.</text>
+</message>
+<message id="63d24a6c-f713-40a3-9626-9bbfb599fc1c" topic="3">
+    <user>Rabidi</user>
+    <text>Cloud computing est la prochaine étape dans l'évolution d'Internet.</text>
+</message>
+<message id="438eb217-506f-4417-b9c7-1f5bd83a44b8" topic="3">
+    <user>Rabidi</user>
+    <text>Le Cloud computing est devenu le nouveau mot à la mode tirée en grande partie par le marketing et les offres de services de grands groupes comme Google, IBM et Amazon.</text>
+</message>
+<message id="7e138508-2db4-4458-9eb1-b7478327c351" topic="3">
+    <user>wayari</user>
+    <text>Cloud computing fournit le moyen par lequel tout - de la puissance de calcul de l'infrastructure informatique, des applications, des processus d'affaires pour une autoentreprise </text>
+</message>
+<message id="24f06489-6c4f-4ff1-a6d5-17610bc1614b" topic="3">
+    <user>Hayari</user>
+    <text>CLOUD peut être livré comme un service où et quand vous en avez besoin.</text>
+</message>
+<message id="37c42854-85fb-49bb-9def-600e9842db84" topic="3">
+    <user>ahermassi</user>
+    <text>Il existe principalement trois formes de Cloud computing public , privé et hybride.</text>
+</message>
+<message id="939c5266-b1e9-45b1-9444-f96b2809b2c8" topic="4">
+    <user>ahermassi</user>
+    <text>Deep Learning is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals.</text>
+</message>
+<message id="936356f4-cb39-4bb7-9b95-5ff6956c0334" topic="4">
+    <user>Hayari</user>
+    <text>The first FDA approval for a machine learning application to be used in a clinical setting is a big step forward for AI and machine learning in ...</text>
+</message>
+<message id="8d9f6775-67be-4482-8861-d998e8a14352" topic="4">
+    <user>Rabidi</user>
+    <text>Today Intel announced record results on a new benchmark in deep learning and convolutional neural networks (CNN).</text>
+</message>
+</messages>
